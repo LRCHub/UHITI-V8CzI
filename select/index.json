@@ -1,0 +1,312 @@
+{
+  "version": 1,
+  "base_track": "Dead Or Alive",
+  "base_artist": "GLAY",
+  "createdAt": "2026-02-27T06:35:00.313239Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "DEAD OR ALIVE FREESTYLE",
+      "artist": "Oliver Francis",
+      "has_synced": true,
+      "path": "select/01_DEAD_OR_ALIVE_FREESTYLE_Oliver_Francis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dead Or Alive",
+      "artist": "Oingo Boingo",
+      "has_synced": false,
+      "path": "select/02_Dead_Or_Alive_Oingo_Boingo.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dead Or Alive",
+      "artist": "Cam'Ron feat. Jimmy Jones",
+      "has_synced": true,
+      "path": "select/03_Dead_Or_Alive_Cam'Ron_feat._Jimmy_Jones.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dead Or Alive (feat. Jimmy Jones)",
+      "artist": "Cam'ron",
+      "has_synced": true,
+      "path": "select/04_Dead_Or_Alive_(feat._Jimmy_Jones)_Cam'ron.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dead Or Alive",
+      "artist": "Journey",
+      "has_synced": false,
+      "path": "select/05_Dead_Or_Alive_Journey.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wanted Dead Or Alive",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/06_Wanted_Dead_Or_Alive_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Wanted Dead or Alive",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/07_Wanted_Dead_or_Alive_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Wanted Dead Or Alive - Live (2000/China Club)",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/08_Wanted_Dead_Or_Alive_-_Live_(2000_China_Club)_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Wanted Dead or Alive (New York City, USA 2000)",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/09_Wanted_Dead_or_Alive_(New_York_City,_USA_2000)_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sex Drive (Dead or Alive original mix)",
+      "artist": "Dead or Alive",
+      "has_synced": false,
+      "path": "select/10_Sex_Drive_(Dead_or_Alive_original_mix)_Dead_or_Alive.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dead Or Alive",
+      "artist": "Pretty Maids",
+      "has_synced": true,
+      "path": "select/11_Dead_Or_Alive_Pretty_Maids.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Wanted Dead Or Alive",
+      "artist": "Northern Kings",
+      "has_synced": true,
+      "path": "select/12_Wanted_Dead_Or_Alive_Northern_Kings.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dead or Alive",
+      "artist": "Cam'ron",
+      "has_synced": false,
+      "path": "select/13_Dead_or_Alive_Cam'ron.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Chequered Flag (Dead Or Alive)",
+      "artist": "Jethro Tull",
+      "has_synced": true,
+      "path": "select/14_The_Chequered_Flag_(Dead_Or_Alive)_Jethro_Tull.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dead or Alive",
+      "artist": "Deep Purple",
+      "has_synced": true,
+      "path": "select/15_Dead_or_Alive_Deep_Purple.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Dead or Alive",
+      "artist": "Fastway",
+      "has_synced": false,
+      "path": "select/16_Dead_or_Alive_Fastway.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Dead or Alive",
+      "artist": "Angela",
+      "has_synced": true,
+      "path": "select/17_Dead_or_Alive_Angela.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "The Dead Heart - 2007 Remastered",
+      "artist": "Midnight Oil",
+      "has_synced": true,
+      "path": "select/18_The_Dead_Heart_-_2007_Remastered_Midnight_Oil.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Dead-Beat",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/19_Dead-Beat_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Dead Beat",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": false,
+      "path": "select/20_Dead_Beat_King_Gizzard_and_the_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Bela Lugosi’s Dead",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/21_Bela_Lugosi’s_Dead_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Dead Air",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/22_Dead_Air_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Dead Horses",
+      "artist": "The Local Honeys",
+      "has_synced": false,
+      "path": "select/23_Dead_Horses_The_Local_Honeys.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Dead Man's Curve",
+      "artist": "Brothers Osborne",
+      "has_synced": true,
+      "path": "select/24_Dead_Man's_Curve_Brothers_Osborne.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Downtown's Dead",
+      "artist": "Sam Hunt",
+      "has_synced": true,
+      "path": "select/25_Downtown's_Dead_Sam_Hunt.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Still Not Dead",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/26_Still_Not_Dead_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "She's Not Dead",
+      "artist": "Suede",
+      "has_synced": true,
+      "path": "select/27_She's_Not_Dead_Suede.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Dead Fox",
+      "artist": "Courtney Barnett",
+      "has_synced": true,
+      "path": "select/28_Dead_Fox_Courtney_Barnett.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "All Dead, All Dead",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/29_All_Dead,_All_Dead_Queen.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "2 More Dead",
+      "artist": "RJD2",
+      "has_synced": false,
+      "path": "select/30_2_More_Dead_RJD2.txt"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Dead Men Tell No Tales",
+      "artist": "Cypress Hill",
+      "has_synced": true,
+      "path": "select/31_Dead_Men_Tell_No_Tales_Cypress_Hill.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Dead Wrong (feat. Eminem)",
+      "artist": "The Notorious B.I.G.",
+      "has_synced": true,
+      "path": "select/32_Dead_Wrong_(feat._Eminem)_The_Notorious_B.I.G..lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Dead Wrong RMX (feat. The Notorious B.I.G.)",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/33_Dead_Wrong_RMX_(feat._The_Notorious_B.I.G.)_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "Over My Dead Body",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/34_Over_My_Dead_Body_Drake.lrc"
+    },
+    {
+      "id": "lrclib_35",
+      "source": "lrclib",
+      "title": "Dead or Living",
+      "artist": "Diamond Head",
+      "has_synced": false,
+      "path": "select/35_Dead_or_Living_Diamond_Head.txt"
+    },
+    {
+      "id": "lrclib_36",
+      "source": "lrclib",
+      "title": "Dead Or Rock",
+      "artist": "Edguy",
+      "has_synced": true,
+      "path": "select/36_Dead_Or_Rock_Edguy.lrc"
+    },
+    {
+      "id": "lrclib_37",
+      "source": "lrclib",
+      "title": "DEAD or A LiME",
+      "artist": "BiS",
+      "has_synced": false,
+      "path": "select/37_DEAD_or_A_LiME_BiS.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dead Or Alive",
+      "artist": "GLAY",
+      "has_synced": false,
+      "path": "select/pl_01_Dead_Or_Alive_GLAY.txt"
+    }
+  ]
+}
